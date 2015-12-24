@@ -1,5 +1,3 @@
-# TipsCalculator
-Application that generate tips and total of a bill.
 
 # Pre-work - *Tips Calculator*
 
